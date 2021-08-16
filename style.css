@@ -1,0 +1,19 @@
+* {
+	background-color: black;
+	font-family: "Monaco",monospace;
+	padding: 0;
+	margin: 0;
+	border: none;
+}
+div {
+	color: white;
+	font-size: 40px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+span {
+	display: inline-block;
+  	transform: skew(20deg,10deg);
+}
